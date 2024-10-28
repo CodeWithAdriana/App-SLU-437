@@ -1,3 +1,8 @@
+                                                                Borrador del proyecto para crear una aplicación Android 
+
+                                                                               Alumna: Adriana Reyes 
+
+
 🍳 Generador de Recetas
 Una aplicación móvil que sugiere recetas basadas en los ingredientes disponibles en casa.
 
