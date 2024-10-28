@@ -58,11 +58,14 @@ Fase 5: Lanzamiento en la Google Play Store.
 
 🎨 Wireframe y Diseño de Interfaz
 Pantalla Inicial del Usuario:
-![pantalladeinicio](Borrador-del-proyecto-de-la-aplicaci-n-de-Android-Asignaci-n
-/Pan-in.png)
+![pantalladeinicio](Pan-in.png)
+
 
 
 Búsqueda de Recetas:
+
+![pantalladeinicio](receta.png)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
