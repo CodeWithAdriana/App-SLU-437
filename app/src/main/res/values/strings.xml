@@ -1,0 +1,23 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Generador de Recetas</string>
+
+    <!-- Textos de la pantalla principal -->
+    <string name="instructions">Puedes elegir hasta 5 ingredientes</string>
+    <string name="add_ingredient">Agregar ingrediente</string>
+    <string name="prepare">A preparar</string>
+    <string name="idea_1">Idea 1</string>
+    <string name="idea_2">Idea 2</string>
+    <string name="idea_3">Idea 3</string>
+    <string name="idea_4">Idea 4</string>
+    <string name="idea_5">Idea 5</string>
+    <string name="idea_6">Idea 6</string>
+
+    <!-- Texto para el campo de entrada -->
+    <string name="escribe_un_ingrediente">Escribe un ingrediente</string>
+
+    <!-- Mensajes -->
+    <string name="ingredient_error">Por favor, ingresa un ingrediente</string>
+    <string name="recipe_error">No se encontraron recetas.</string>
+    <string name="network_error">Error de red: %1$s</string>
+</resources>
