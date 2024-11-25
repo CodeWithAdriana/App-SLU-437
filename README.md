@@ -61,8 +61,8 @@ Fase 5: Lanzamiento en la Google Play Store.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎨 Wireframe y Diseño de Interfaz
-Pantalla Inicial del Usuario:
+<h2> Pantalla Inicial del Usuario: </h2> 
+
 ![pantalladeinicio](gr-app/img/pagina%201.png)
 
 
