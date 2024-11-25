@@ -63,13 +63,13 @@ Fase 5: Lanzamiento en la Google Play Store.
 
 🎨 Wireframe y Diseño de Interfaz
 Pantalla Inicial del Usuario:
-![pantalladeinicio](pagina1.png)
+![pantalladeinicio](gr-app/img/pagina%201.png)
 
 
 
 Receta encontrada: 
 
-![pantalladeinicio](pagina2.png)
+![pantalladeinicio](gr-app/img/pagina%202.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
