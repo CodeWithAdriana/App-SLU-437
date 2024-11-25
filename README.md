@@ -37,14 +37,16 @@ Información adicional sobre valor nutricional y calorías.
 
 
 🛠️ Tecnologías Utilizadas
-Front End
+<ul>
+<li> Front End </li>
 React Native: Para la creación de una interfaz de usuario fluida y multiplataforma.
 Framework7: Para un diseño atractivo y responsivo que mejore la experiencia del usuario.
-Back End
+<li> Back End</li>
 Node.js: Para la lógica del servidor y la gestión de las peticiones de API.
 Firebase: Para la autenticación de usuarios y almacenamiento de datos de preferencias.
 API Integrada
 Spoonacular API: Utilizada para obtener recetas en función de los ingredientes disponibles, así como para acceder a información nutricional detallada.
+</ul>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
