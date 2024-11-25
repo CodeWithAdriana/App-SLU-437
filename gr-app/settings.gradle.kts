@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GeneradorDeRecetas" // Asegúrate de usar el nombre correcto del proyecto
+rootProject.name = "gr-app" 
 include(":app")
