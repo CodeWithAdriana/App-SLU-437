@@ -1,4 +1,4 @@
-<h1> Borrador del proyecto para crear una aplicación Android </h1> 
+<h1> Proyecto para crear una aplicación Android </h1> 
 Alumna: Adriana Reyes 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
