@@ -35,21 +35,6 @@ Información adicional sobre valor nutricional y calorías.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-🛠️ Tecnologías Utilizadas
-<ul>
-<li> Front End </li>
-React Native: Para la creación de una interfaz de usuario fluida y multiplataforma.
-Framework7: Para un diseño atractivo y responsivo que mejore la experiencia del usuario.
-<li> Back End</li>
-Node.js: Para la lógica del servidor y la gestión de las peticiones de API.
-Firebase: Para la autenticación de usuarios y almacenamiento de datos de preferencias.
-API Integrada
-Spoonacular API: Utilizada para obtener recetas en función de los ingredientes disponibles, así como para acceder a información nutricional detallada.
-</ul>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 📱 Funcionalidades
 Interfaz Amigable y Directa: Los usuarios pueden navegar fácilmente por la app, ingresar ingredientes y ver recetas sugeridas de forma sencilla.
 Perfiles Personalizados: Los usuarios pueden crear un perfil básico para guardar recetas favoritas y mantener un historial de búsquedas.
