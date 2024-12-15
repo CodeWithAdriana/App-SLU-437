@@ -9,6 +9,14 @@
 
 ---
 
+
+# 🌐 Links
+
+- [🎨 Diseño en Canva](https://www.canva.com/design/DAGZMnlwKos/eAGmZOqw6H8dV_LLOQIayA/view?utm_content=DAGZMnlwKos&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9512c01e5f)  
+- [🎥 Storyboarding en Figma](https://www.figma.com/design/rnfOqwD626LxdVlMmeq5yP/StoryBoarding----GR?node-id=0-1&m=dev&t=yQcVwvdDs8Ru01FY-1)
+
+---
+
 ## 📖 Descripción del Proyecto
 El **Generador de Recetas** es una aplicación móvil para Android diseñada para simplificar la vida en la cocina. Permite a los usuarios ingresar los ingredientes que tienen a mano y obtener recetas sugeridas de manera instantánea.  
 La aplicación está dirigida a cualquier persona que quiera aprovechar al máximo sus ingredientes sin complicaciones, proporcionando opciones rápidas y fáciles de cocinar.
