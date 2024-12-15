@@ -3,7 +3,7 @@
 <div align="center">
 
 ### ✨ **Alumna:** Adriana Reyes  
-### 📚 **Curso:** Desarrollo de Apps Móviles COM-437ES-AVOL1  
+### 📚 **Curso:** Desarrollo de Apps Móviles COM-437ES-AVOL1 - Saint Leo University
 
 </div>
 
@@ -36,21 +36,20 @@ Esta app está diseñada para todas las personas que desean:
 ### **Sugerencias de Recetas Personalizadas**
 - Recetas recomendadas en función de los ingredientes ingresados por el usuario.
 - Filtros para recetas rápidas, económicas o saludables.
-- Ajuste de porciones para adaptarse a la cantidad de ingredientes disponibles.
 
 ### **Búsqueda de Recetas por Ingredientes**
 - Los usuarios pueden ingresar una lista de ingredientes y recibir recetas que los utilicen de manera óptima.
 - Posibilidad de agregar o eliminar ingredientes en la búsqueda para afinar las sugerencias.
 
 ### **Recetas Detalladas**
-- Descripción completa de la receta con ingredientes, instrucciones de preparación y tiempo estimado de cocción.
-- Información adicional sobre valor nutricional y calorías.
+- Descripción de la receta.
+- Posible información adicional sobre valor nutricional y calorías.
 
 ---
 
 ## 📱 Funcionalidades
 - **Interfaz Amigable y Directa:** Navegación sencilla para ingresar ingredientes y ver recetas sugeridas.
-- **Perfiles Personalizados:** Los usuarios pueden crear un perfil básico para guardar recetas favoritas y mantener un historial de búsquedas.
+- **Perfiles Personalizados:** Los usuarios pueden guardar recetas favoritas.
 - **Ajuste de Porciones:** La app permite ajustar el tamaño de las recetas según la cantidad de ingredientes disponibles.
 
 ---
